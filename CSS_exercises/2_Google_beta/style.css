@@ -1,0 +1,54 @@
+
+body{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.box{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.input{
+    display: inline-block;
+    width: 50%;
+}
+
+.gray-back {
+    background-color: #EEEEEE;
+}
+
+.mini-box1{
+    width: 30%;
+    float: left;
+    height: 150px;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+.mini-box2{
+    width: 40%;
+    float: left;
+    height: 150px;
+    vertical-align: middle;
+    justify-content: center;
+
+}
+
+.color1{
+    background-color: #7EE5DA;
+}
+
+.color2 {
+    background-color: #70CCC2;
+}
+
+.color3 {
+    background-color: #62B3AA;
+}
+
+p {
+    text-align: center;
+}
