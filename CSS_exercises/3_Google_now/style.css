@@ -1,0 +1,50 @@
+.left li{
+    float: left;
+    margin: 10px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.right li{
+    float: right;
+    margin: 10px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.sign-in {
+    background-color: #4386FB;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+
+.google {
+    display: block;
+    margin: auto ;
+
+    width: 20%;
+
+}
+
+.input {
+    display: block;
+    border-radius: 20px;
+    width: 40%;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    height: 30px;
+}
+
+.buttons{
+    text-align: center;
+    margin: 10px;
+}
+button {
+    margin : 10px;
+}
